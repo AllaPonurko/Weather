@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfWeatherData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WeatherData>
+    <dateTime>2021-12-19T22:40:53.6506736+03:00</dateTime>
+    <Temperature>18.3</Temperature>
+    <WindSpeed>12</WindSpeed>
+    <Pressure>754</Pressure>
+  </WeatherData>
+  <WeatherData>
+    <dateTime>2021-12-18T06:50:30</dateTime>
+    <Temperature>-13.3</Temperature>
+    <WindSpeed>4</WindSpeed>
+    <Pressure>760</Pressure>
+  </WeatherData>
+  <WeatherData>
+    <dateTime>2020-12-06T18:35:30</dateTime>
+    <Temperature>-6.65</Temperature>
+    <WindSpeed>6</WindSpeed>
+    <Pressure>754</Pressure>
+  </WeatherData>
+</ArrayOfWeatherData>
